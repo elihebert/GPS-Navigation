@@ -1,7 +1,3 @@
-/*
-I have neither given nor received any unauthorized aid on this program;
-used the starter code Professor Kirlin supplied
- */
 
 import java.io.InputStream;
 import java.util.*;
