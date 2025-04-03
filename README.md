@@ -34,7 +34,6 @@ For the heuristic function in the A* algorithm, assume straight-line travel at 6
 Speed Override
 Implement a feature allowing the user to specify a number of instances where the speed limit can be exceeded, representing the agent's ability to speed under certain conditions.
 Adjust the route calculation to account for this capability, including modifications to state representation and action definitions.
-This reformatted project outline focuses on delivering a clear and concise description of the project's goals, functionalities, and technical approaches, suitable for presentation to stakeholders or inclusion in project documentation.
 
 
 
